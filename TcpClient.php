@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2019/11/13 0013
- * Time: 8:39
- */
 
 class  TcpClient
 {
